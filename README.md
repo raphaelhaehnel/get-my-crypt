@@ -1,7 +1,16 @@
-# get-my-crypt
+# GetMyCrypt
+
+## Motivation
+GetMyCryp is a C++ application for the Caesar cipher, one of the simplest and most widely known encryption techniques. It uses a substitution text for wich each letter of the original text is replaced by a letter with a fixed number of positions down the alphabet.
+
+## Usage
 
 entry gate
 ![entry-gate](https://user-images.githubusercontent.com/69756617/205722086-58375f03-f8c0-4739-b8b9-e612dc568995.PNG)
+
+and
+
+<img src="[documentation_images/single_button_macOS.png](https://user-images.githubusercontent.com/69756617/205722086-58375f03-f8c0-4739-b8b9-e612dc568995.PNG)" width="400"/>
 
 first code
 ![first code](https://user-images.githubusercontent.com/69756617/205722708-1ee16109-280b-4c3d-94b8-36cb2d9a1549.PNG)
