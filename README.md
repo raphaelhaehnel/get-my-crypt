@@ -4,7 +4,8 @@ entry gate
 ![entry-gate](https://user-images.githubusercontent.com/69756617/205722086-58375f03-f8c0-4739-b8b9-e612dc568995.PNG)
 
 first code
-![first code](https://user-images.githubusercontent.com/69756617/205722130-1f761d99-de0a-4627-9ede-3de27ae86b1b.PNG)
+![first code](https://user-images.githubusercontent.com/69756617/205722708-1ee16109-280b-4c3d-94b8-36cb2d9a1549.PNG)
+
 
 first decode
 ![first decode](https://user-images.githubusercontent.com/69756617/205722143-cc19d796-c007-47a1-ad17-9b13b8e79354.PNG)
